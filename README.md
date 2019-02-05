@@ -1,4 +1,5 @@
-# team-sik-android-ctf
+# TeamSik-Android-CTF
+
 Solutions to TeamSIK AHE16 Android CTFs
 
 On both CTFs, the challenge is to enter the right flag on the apk.
